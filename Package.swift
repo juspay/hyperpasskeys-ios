@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperPasskeys",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.8.1/HyperPasskeys.zip",
-            checksum: "4c295772441e926adee40ca1f997640448f30da4e39af0ec34277bdce76a2045"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.8.2/HyperPasskeys.zip",
+            checksum: "5d433ec06cbd2780e4d857bf8c7d8018ae18e695df0c44ad473571532e061af8"
         )
     ]
 )
